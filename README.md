@@ -12,8 +12,6 @@ My goal is to read two books a month.
     - Note to self: Finish reading Refactoring and Design Patterns. Then start
       reading.
 - [ ] **The Mythical Man-Month** by Fred Brooks
-- [ ] **The Origin of Totalitarianism** by Hannah Arendt
-    - Note to self: Read after finishing Bloodlands
 - [ ] **The Best and Brightest** by David Halberstam
     - read after The Origin of Totalitarianism
 - [ ] **ある男** by 平野啓一郎
@@ -42,13 +40,64 @@ I also want to go through the 150 essential reads introduced in `必読書150`..
 
 ## Read, or Currently Reading
 
-- [ ] **A Philosophy of Software Design** by John Ousterhout
+- [ ] **The Origins of Totalitarianism** by Hannah Arendt
 
-One nitpick: I thought that trying to convey the author's authority on
-programming by bringing up the lines of code he's written over the years was
-not really good. But who am I to say.
+- [x] **A Philosophy of Software Design** by John Ousterhout
 
-Currently reading
+> The greatest limitation in writing software is our ability to understand the
+> systems we are creating. (p1)
+
+> One of the most important goals of good design is for a system to be *obvious*
+> . (p9)
+
+> Complexity isn't caused by a single catastrophic error; it accumulates in lots
+> of small chunks. (p11)
+
+> The best modules are those whose interfaces are much simpler than their
+> implementations. Such modules have two advantages. First , a simple interface
+> minimizes the complexity that a module imposes on the rest of the system.
+> Second, if a module is modified in a way that does not change its interface,
+> then no other module will be affected by the modification. (p20)
+
+> The most important issue in designing classes and other modules is to make
+> them deep, so that they have simple interfaces for the common use cases, yet
+> still provide significant functionality. (p27)
+
+> The interface of a class should normally different from its implementation:
+> the representations used internally should be different from the abstractions
+> that appear in the interface. If the two have similar abstractions, then the
+> class probably isn't very deep. (p50)
+
+> When developing a module, look for opportunities to take a little bit of extra
+> suffering upon yourself in order to reduce the suffering of your users. (p58)
+
+> When deciding whether to combine or separate, the goal is to reduce the
+> complexity of the system as a whole and improve its modularity.
+> - Separation makes it harder for developers to see the components at the same
+    time.
+> - If there are dependencies between the components, then separation is bad.
+> - Bring together if information is shared.
+> - Bring together if it will simplify the interface.
+> - Bring together to eliminate duplication. (p59-63)
+
+> The way to separate special-purpose code from general-purpose code is to pull
+> the special-purpose code upwards, into the higher layers, leaving the lower
+> layers general-purpose. (p64)
+
+> Comments are fundamental to abstractions. The goal of abstractions is to hide
+> complexity: an abstraction is a simplified view of an entity, which preserves
+> essential information but omits details that can safely be ignored. If users
+> must read the code of a method in order to use it, then there is no
+> abstraction:
+> all of the complexity of the method is exposed. (p97)
+
+> The overall idea behind comments is to capture information that was in the
+> mind of the designer but couldn't be represented in the code. (p98)
+
+> If interface comments must also describe the implementation, then the class or
+> method is shallow. (p110)
+
+> Software should be designed for ease of reading, not ease of writing. (p149) 
 
 - [ ] **Crafting Interpreters** by Robert Nystrom
 
@@ -56,15 +105,13 @@ Because I want try writing my own language.
 
 Currently reading
 
-- [ ] **Bloodlands** by Timothy Snyder
+- [x] **Bloodlands** by Timothy Snyder
 
 I picked this book up in light of the recent war in Ukraine, to better
 understand what happened before and during the Second World War. I never
 knew much about Ukraine outside its coverage during the impeachment trials
 of Trump, so I figured it would give me some historical context to the
 current situation.
-
-Currently reading
 
 - [x] **Embracing Defeat** by John Dower
 
