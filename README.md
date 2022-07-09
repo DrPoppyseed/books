@@ -42,6 +42,50 @@ I also want to go through the 150 essential reads introduced in `必読書150`..
 
 - [ ] **The Origins of Totalitarianism** by Hannah Arendt
 
+- [x] **The Launch Pad** by Randall Stross
+
+> "Here's how to generate new ideas. Three things. One: founders are target 
+> users. Two: not many people could build it, but founders are among them. Three:
+> few people realize it is a big deal." (p68)
+
+> "Ask yourself: 'What do I wish someone would start a startup to do for me?'" 
+> says Graham. "The next best thing: something for someone else that you know is 
+> a problem." (p69)
+
+> Paul Graham is fond of a Silicon Valley saying: "You make what you measure."
+> The act of measuring some aspect of perfomance leads to caring about that one 
+> thing and lavishing your attention on it, which, in turn, leads to improving it.
+> He suggests that startups set a specific weekly target for rowth, which can be
+> measured in terms of revenue or users or something else, but should be essential
+> to the startup. Anything that is not directly related to that metric is to be 
+> pushed to the wayside. (p78)
+
+> "I noticed," Graham says, "looking down the rankings -at least my rankings- that
+> all the ones at the top were, like, real animals at doing sales." He does not 
+> mean to say that strength in sales was all that was needed. "You have to be good 
+> at hacking *and* be aggressive in sales. Everybody we fund is good at hacking. 
+> We can tell *that*!" What the YC partners might have missed is that willingness 
+> to attack sales. "When I say sales, I don't just mean going out and talking to 
+> customers to figure out what they want. So why don't you try this: erring on 
+> the side of sales. Just spend all your time doing sales and treating hacking as 
+> this side project, right?" The outrageousness of his suggestion makes Graham 
+> more animated. "*That*-" He pauses for emphasis. "*That* will tend to produce
+> really good results." (p120)
+
+> ...the basic YC tenets: work on code and talk with customers; launch fast and 
+> iterate; focus on one measurable weekly goal. (p150)
+
+> One: you really need a huge market. And two: you need founder-market fit.
+> (p230)
+
+> "Just focus on one of three things: One, be cheaper. Two, focus on a niche.
+> Or, three, be 10x better than the other products out there." (p231)
+
+> One. You've got to put yourself out there and meet people, even if it's 
+> awkward. Two, You've got to hug your cofounders and love your batchmates.
+> Three. Experts aren't going to help you solve your problems. Four. You've 
+> gotta have swag." (p236)
+
 - [x] **A Philosophy of Software Design** by John Ousterhout
 
 > The greatest limitation in writing software is our ability to understand the
@@ -112,6 +156,40 @@ understand what happened before and during the Second World War. I never
 knew much about Ukraine outside its coverage during the impeachment trials
 of Trump, so I figured it would give me some historical context to the
 current situation.
+
+> Ideology, when stripped by time or partisanship of its political and economic
+> connections, becomes a moralizing form of explanation for mass killing, one 
+> that comfortably separates the people who explain from the people who kill.
+> (p399)
+
+> No major war or act of mass killing in the twentieth century began without 
+> the aggressors or perpetrators first claiming innocence and victimhood. In
+> the twenty-first century, we see a second wave of aggressive wars with victim 
+> claims, in which leaders not only present their peoples as victims but make 
+> explicit claims, in which leaders not only present their peoples as victims
+> but make explicit reference to the mass murders of the twentieth century.
+> The human capacity for subjective victimhood is apparently limitless, and 
+> people who believe that they are victims can be motivated to perform acts
+> of great violence. (p400)
+
+> It is less appealing, but morally more urgent, to understand the actions 
+> of the perpetrators. The moral danger, after all, is never that one might 
+> become a victim but that one might be perpetrator or a bystander. (p400)
+
+> People who called others subhuman were themselves subhuman. Yet to deny a
+> human being his human character is to render ethics impossible. (p400)
+
+> To dismiss the Nazis or the Soviets as beyond human concern or historical
+> understanding is to fall into their moral trap. The safer route is to 
+> realize that their motives for killing, however revolting to us, made sense
+> to them. (p400)
+
+> To believe that vast suffering must be associated with great progress is to
+> accept a kind of hermetic masochism: the presence of pain is a sign of some 
+> immanent or emergent good. To advance this sort of reasoning oneself is
+> hermetic sadism: if I caused pain, it was because there was a higher
+> purpose, known to me. (p401)
+
 
 - [x] **Embracing Defeat** by John Dower
 
